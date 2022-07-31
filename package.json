@@ -4,6 +4,10 @@
   "description": "sudoku solver",
   "main": "server.js",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mortalcoder25/sudoku-server.git"
+  },
   "scripts": {
     "start": "node server.js",
     "server": "nodemon server.js"
